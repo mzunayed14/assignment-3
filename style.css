@@ -1,0 +1,19 @@
+.lato {
+    font-family: "Lato", sans-serif;
+  }
+  .banner1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(68, 67, 67, 0.39)),
+      url("./images/banner1.png");
+  }
+  .banner2 {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(68, 67, 67, 0.39)),
+      url("./images/banner2.png");
+  }
+  .banner3 {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(68, 67, 67, 0.39)),
+      url("./images/banner3.png");
+  }
+  .banner4 {
+    background: linear-gradient(rgba(0, 0, 0, 0.37), rgba(68, 67, 67, 0.39)),
+      url("./images/banner4.png");
+  }
